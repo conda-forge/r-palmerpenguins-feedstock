@@ -3,7 +3,7 @@ About r-palmerpenguins
 
 Home: https://allisonhorst.github.io/palmerpenguins/, https://github.com/allisonhorst/palmerpenguins
 
-Package license: CC0
+Package license: CC0-1.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-palmerpenguins-feedstock/blob/master/LICENSE.txt)
 
@@ -36,6 +36,7 @@ Installing `r-palmerpenguins` from the `conda-forge` channel can be achieved by 
 
 ```
 conda config --add channels conda-forge
+conda config --set channel_priority strict
 ```
 
 Once the `conda-forge` channel has been enabled, `r-palmerpenguins` can be installed with:
