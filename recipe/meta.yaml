@@ -1,4 +1,4 @@
-{% set version = '0.1.0' %}
+{% set version = "0.1.0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -13,7 +13,7 @@ source:
   sha256: fdcc58bcf1311b962e94b13d0ab3729e4b6656d21bd8f0329f07473a1b1b3360
 
 build:
-  merge_build_host: True  # [win]
+  merge_build_host: true  # [win]
   number: 0
   noarch: generic
   rpaths:
@@ -35,11 +35,9 @@ test:
 
 about:
   home: https://allisonhorst.github.io/palmerpenguins/, https://github.com/allisonhorst/palmerpenguins
-  license: CC0
-  summary: "Size measurements, clutch observations, and blood isotope ratios for adult foraging
-    Ad\xE9lie, Chinstrap, and Gentoo penguins observed on islands in the Palmer Archipelago
-    near Palmer Station, Antarctica. Data were collected and made available by Dr. Kristen
-    Gorman and the Palmer Station Long Term Ecological Research (LTER) Program."
+  license: CC0-1.0
+  summary: Size measurements, clutch observations, and blood isotope ratios for adult foraging Adélie, Chinstrap, and Gentoo penguins observed on islands in the Palmer Archipelago near Palmer Station, Antarctica. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station Long Term Ecological Research
+    (LTER) Program.
   license_family: CC
 
 extra:
