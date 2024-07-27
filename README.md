@@ -3,11 +3,13 @@ About r-palmerpenguins-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-palmerpenguins-feedstock/blob/main/LICENSE.txt)
 
-Home: https://allisonhorst.github.io/palmerpenguins/, https://github.com/allisonhorst/palmerpenguins
+Home: https://allisonhorst.github.io/palmerpenguins/
 
 Package license: CC0-1.0
 
 Summary: Size measurements, clutch observations, and blood isotope ratios for adult foraging Adélie, Chinstrap, and Gentoo penguins observed on islands in the Palmer Archipelago near Palmer Station, Antarctica. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station Long Term Ecological Research (LTER) Program.
+
+Development: https://github.com/allisonhorst/palmerpenguins
 
 Current build status
 ====================
