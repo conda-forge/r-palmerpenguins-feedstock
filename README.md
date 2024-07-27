@@ -3,11 +3,13 @@ About r-palmerpenguins-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-palmerpenguins-feedstock/blob/main/LICENSE.txt)
 
-Home: https://allisonhorst.github.io/palmerpenguins/, https://github.com/allisonhorst/palmerpenguins
+Home: https://allisonhorst.github.io/palmerpenguins/
 
 Package license: CC0-1.0
 
 Summary: Size measurements, clutch observations, and blood isotope ratios for adult foraging Adélie, Chinstrap, and Gentoo penguins observed on islands in the Palmer Archipelago near Palmer Station, Antarctica. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station Long Term Ecological Research (LTER) Program.
+
+Development: https://github.com/allisonhorst/palmerpenguins
 
 Current build status
 ====================
@@ -95,7 +97,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
